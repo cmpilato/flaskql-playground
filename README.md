@@ -8,7 +8,7 @@ After cloning this repository, you'll want to build and tag the Docker
 images:
 
 ```sh
-docker-compose build
+$ docker-compose build
 ```
 
 ## Starting the Stack
